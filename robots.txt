@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-supatman-opesia.github.io/sgp-1/sitemap.xml
